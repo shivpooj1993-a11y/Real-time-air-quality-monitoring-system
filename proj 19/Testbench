@@ -1,0 +1,11 @@
+[PASS] PM2.5 value is within valid range
+[PASS] PM10 value is within valid range
+[PASS] Temperature is within valid range
+[PASS] Humidity is within valid range
+[PASS] AQI calculation
+[PASS] AQI category
+[PASS] API response
+[PASS] Database insertion
+[PASS] Invalid sensor data handling
+
+Tests Passed: 9/9
